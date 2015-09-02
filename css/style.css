@@ -1,0 +1,167 @@
+/*
+Project Name: Relaxr
+Client: GA Syd
+Author: Yan Zhao 
+Developer @GA in NYC
+*/
+
+
+.home-pg {
+    background: url(../images/header_bg.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.GetItNow {
+    background: #f0efef;
+}
+
+body {
+    font-family: 'Open Sans';
+    min-width: 1800px; 
+}
+
+header {
+    font-family: Open Sans;
+    font-size: 40px;
+    font-weight: 600;
+    color: #033048;
+    margin-left: 100px;
+}
+
+.companyname {
+     color:white;
+     margin-left: 100px;
+     font-size: 48px;
+     font-weight:800;
+    
+}
+
+.landingmessage {
+    color: white;
+    margin-top: 150px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;        
+}
+
+.button {
+    display: block;
+    color: #033048;
+    background-color: #f9e42e;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    width:200px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    border-color: none;
+    border-radius: 5px;
+}
+
+.container  {
+    color: #606161;
+    font-family: Open Sans;
+    font-size: 26px;
+    font-weight: 300;
+    margin-left: 100px;
+    width: 700px;    
+}
+
+.container1 {
+    background: url(../images/testimonial_bg.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+.quote {
+    color:white;
+    margin: auto;
+    width: 50%;
+    padding-top: 150px;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 300; 
+}
+.quote span  {
+    color:white;
+    margin:auto;
+    padding-top: 150px;
+    width: 50%;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600; 
+}
+
+.container2 {
+    background: #f9e42e;
+    background-size: cover;
+    padding:35px 0;
+}
+
+.button2 {
+    display: block;
+    color:white;
+    background-color: #033048;
+    font-family: open sans;
+    font-weight: 800;
+    text-decoration: none;
+    text-align: center;
+    width:240px;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    border-radius:5px; 
+}
+
+.container3 {
+    background: #121212;
+    height: 600px;
+    background-size:cover;
+    padding-top: 45px;
+}
+.container3 .Relaxr2 {
+    font-family: open sans;
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9e42e;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    
+}
+.container3 .socialmedia {
+    margin: auto;
+    width:150px;
+}
+
+.container3 .socialmedia .twitter {
+    float: left;
+    margin: auto;
+}
+.container3 .socialmedia .facebook {
+    float: right;
+    margin: auto;
+    padding-bottom: 200px;
+}
+.container3 footer {
+    clear:both;
+    color: white;
+    width: auto;
+    text-align: center;
+}
+
+
+
+
