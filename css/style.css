@@ -11,32 +11,18 @@ Developer @GA in NYC
     background-size: cover;
 }
 
-.GetItNow {
-    background: #f0efef;
-}
-
 body {
     font-family: 'Open Sans';
-    min-width: 1800px; 
 }
 
-header {
-    font-family: Open Sans;
-    font-size: 40px;
-    font-weight: 600;
-    color: #033048;
-    margin-left: 100px;
-}
-
-.companyname {
+h1 {
      color:white;
-     margin-left: 100px;
+     padding-left: 100px;
      font-size: 48px;
      font-weight:800;
-    
 }
 
-.landingmessage {
+h2 {
     color: white;
     margin-top: 150px;
     text-align: center;
@@ -56,18 +42,34 @@ header {
     height: auto;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 300px;
     border: 2px;
     border-color: none;
     border-radius: 5px;
 }
 
-.container  {
-    color: #606161;
+.container {
+    background: #f0efef;
     font-family: Open Sans;
     font-size: 26px;
     font-weight: 300;
-    margin-left: 100px;
-    width: 700px;    
+    padding-bottom: 100px;
+    padding-top: 80px;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #033048;
+    padding-left:100px;
+}
+
+p {
+    padding-left: 100px;
+}
+
+.benefits {
+    padding-left: 200px;
 }
 
 .container1 {
